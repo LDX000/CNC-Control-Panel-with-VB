@@ -1,0 +1,9 @@
+﻿Tool Ini dibuat Berdasarkan Translasi Numerikal Code ke Step Motor dari Grbl based
+Tool ini tidak dapat dihasilkan tanpa :
+
+- Vusial Studio 2013 Express
+- GRBL File from GRBL Wiki (https://github.com/gnea/grbl)
+- Simple Source Code diberikan oleh gXender untuk saya Kembangkan sendiri
+- CNC dan Gcode yang diperoleh (http://greenetool.com/troubleshooting-carbide-cutting-tools/list-of-g-codes/)
+- Doa Orangtua dan Bapak yang Mengsupport Tugas Akhir Saya
+- Dosen Pembimbing yang sabar membimbing Saya

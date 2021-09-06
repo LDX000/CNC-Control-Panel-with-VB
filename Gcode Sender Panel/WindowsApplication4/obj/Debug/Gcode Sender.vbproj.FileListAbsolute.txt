@@ -1,0 +1,18 @@
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\WindowsApplication4.Gui.resources
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\Gcode Sender.vbproj.GenerateResource.Cache
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\WindowsApplication4.AboutBox1.resources
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\Gcode Sender.vbprojResolveAssemblyReference.cache
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.exe.config
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.exe
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.pdb
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.xml
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.exe
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.xml
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.pdb
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.exe.manifest
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\bin\Debug\G Code Sender Panel.application
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.TrustInfo.xml
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.exe.manifest
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\G Code Sender Panel.application
+C:\Users\rizqy\Documents\Visual Studio 2013\Projects\Gcode Sender\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources

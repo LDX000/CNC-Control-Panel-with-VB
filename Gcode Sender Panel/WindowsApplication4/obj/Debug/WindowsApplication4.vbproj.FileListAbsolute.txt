@@ -1,0 +1,11 @@
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Gui.resources
+c:\users\rizqy\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.About.resources
